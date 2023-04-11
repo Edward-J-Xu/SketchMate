@@ -1,4 +1,4 @@
-# CS 346 Project Whiteboard
+# SketchMate
 
 
 ## Team 205 Members
@@ -24,11 +24,11 @@
 - shared/ : shared model layer, unit tests included in application/
 
 ## Goal
-Digital Whiteboard is a Kotlin desktop application that provides a virtual canvas for users to create, share, and collaborate on digital content in real-time. The application offers a range of features designed to facilitate creativity and productivity, including drawing tools, text input, shape insertion, and exporting features.
+SketchMate is a Kotlin desktop application that provides a virtual canvas for users to create, share, and collaborate on digital content in real-time. The application offers a range of features designed to facilitate creativity and productivity, including drawing tools, text input, shape insertion, and exporting features.
 
-Users can create and edit drawings using the intuitive interface, which supports stylus selection for enhanced precision. The digital whiteboard also allows for easy sharing of content, enabling users to collaborate with others in real-time or share their creations with clients, colleagues, or friends.
+Users can create and edit drawings using the intuitive interface, which supports stylus selection for enhanced precision. SketchMate also allows for easy sharing of content, enabling users to collaborate with others in real-time or share their creations with clients, colleagues, or friends.
 
-The digital whiteboard provides various customization options for colors, line styles, and brush sizes, enabling users to personalize their drawings to suit their creative preferences.
+SketchMate provides various customization options for colors, line styles, and brush sizes, enabling users to personalize their drawings to suit their creative preferences.
 
 ## Quick-start
 Installers can be found in release pages. No additional dependency installation required, simply run bin/application and you are good to go!
@@ -51,7 +51,7 @@ Installers can be found in release pages. No additional dependency installation 
 - Export to PNG (Additional Features)
 - Export to PDF (Additional Features)
 - Save and Restore Window Size/Positon on exit and relaunch.
-- Once logged in, the local whiteboard for the user will be loaded automatically.
+- Once logged in, the local board for the user will be loaded automatically.
 - Switching between Light Theme and Dark Theme (Additional Features)
 - User/Board Data Stored on Cloud, communicated by HTTP and SQL
 - User allowed to launch multiple instances using remote data.
@@ -60,7 +60,7 @@ Installers can be found in release pages. No additional dependency installation 
     -  inserting text (multiple fonts, sizes and colours).
     -  inserting shapes (rectangles, circle and triangle, multiple fill and border colours, draggable and resizable)
     -  editing existing content (Move, Remove, change Styles, etc.)
-    -  selecting and moving content around the whiteboard
+    -  selecting and moving content around the board
     -  erasing content (object eraser)
 
 
