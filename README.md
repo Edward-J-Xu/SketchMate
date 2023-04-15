@@ -69,7 +69,7 @@ We have 4 sprints. Each sprint produces a software release.
 * see [release page](https://git.uwaterloo.ca/e32xu)
 
 ## Meeting Minutes
-* see [meeting minutes folder](https://git.uwaterloo.ca/e32xu/cs-346-project-whiteboard/-/tree/main/meeting-minutes)
+* see [meeting minutes folder](https://git.uwaterloo.ca/e32xu)
 
 ## License
 MIT License
