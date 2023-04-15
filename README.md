@@ -35,7 +35,7 @@ Installers can be found in release pages. No additional dependency installation 
 1. Decompress `application-1.0.0.tar` or `application-1.0.0.zip`
 
 2. Run executable in `application-1.0.0/bin/application`
-* see [release page](https://git.uwaterloo.ca/e32xu/cs-346-project-whiteboard/-/wikis/home)
+* see [release page](https://git.uwaterloo.ca/e32xu)
 
 ## Features
 - Multi-User Login/Register
